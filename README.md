@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiombiano Abdoul Majid</h1>
-<h3 align="center">Software Engineering🤓 and Data Science📈 Lover</h3>
+<h3 align="center">self.life = ReLU(self.life)🙃</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atom36&label=Profile%20views&color=0e75b6&style=flat" alt="atom36" /> </p>
 
