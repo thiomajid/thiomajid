@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiombiano Abdoul Majid</h1>
-<h3 align="center">self.life = ReLU(self.life)🙃</h3>
-
-
+<h3 align="center">self.life = ReLU(self.life)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atom36&label=Profile%20views&color=0e75b6&style=flat" alt="atom36" /> </p>
 
@@ -17,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/atom36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="atom36" height="30" width="40" /></a>
 <a href="https://twitter.com/thiomajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thiomajid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thiomajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiomajid" height="30" width="40" /></a>
 <a href="https://kaggle.com/atom36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atom36" height="30" width="40" /></a>
-<a href="https://medium.com/@abdoulmajidthiombiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdoulmajidthiombiano" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
