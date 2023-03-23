@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thiombiano Abdoul Majid</h1>
-<h3 align="center">self.life = ReLU(self.life)</h3>
+<blockquote cite="https://en.wikipedia.org/wiki/Leonardo_da_Vinci">
+  <p>“Simplicity is the ultimate sophistication.”</p>
+  <footer>Leonardo Da Vinci</footer>
+</blockquote>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atom36&label=Profile%20views&color=0e75b6&style=flat" alt="atom36" /> </p>
 
