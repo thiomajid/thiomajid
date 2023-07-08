@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thiomajid" target="blank"><img src="https://img.shields.io/twitter/follow/thiomajid?logo=twitter&style=for-the-badge" alt="thiomajid" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [here](https://thiomajid.vercel.app)
+- 👨‍💻 All of my projects are available [here](https://thiomajid.vercel.app)
 
 - 💬 Ask me about **Angular, .NET Core or PyTorch**
 
