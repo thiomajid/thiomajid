@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdoul Majid</h1>
-<h3 align="center">RL and Information Retrieval fan🤖</h3>
+<h3 align="center">RL and Language Modeling Fan🪶</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiomajid&label=Profile%20views&color=0e75b6&style=flat" alt="thiomajid" /> </p>
 
