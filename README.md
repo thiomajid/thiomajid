@@ -13,6 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Reinforcement Learning 101](https://thiomajid.github.io/blog/reinforcement-learning-101/)
+- [Nota](https://thiomajid.github.io/projects/nota/)
+- [An introduction to LoRA](https://thiomajid.github.io/blog/an-introduction-to-lora/)
+- [Genesis](https://thiomajid.github.io/projects/genesis/)
+- [EfLight](https://thiomajid.github.io/projects/eflight/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
