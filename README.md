@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiomajid" alt="thiomajid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thiomajid" target="blank"><img src="https://img.shields.io/twitter/follow/thiomajid?logo=twitter&style=for-the-badge" alt="thiomajid" /></a> </p>
-
-- 🌱 I’m currently learning **RL and Optimization Theory**
-
-- 📝 I regularly write articles on [https://thiomajid.github.io/blog](https://thiomajid.github.io/blog)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Reinforcement Learning 101](https://thiomajid.github.io/blog/reinforcement-learning-101/)
