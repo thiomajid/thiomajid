@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [HausaLM](https://thiomajid.github.io/projects/hausalm/)
 - [Reinforcement Learning 101](https://thiomajid.github.io/blog/reinforcement-learning-101/)
 - [An introduction to LoRA](https://thiomajid.github.io/blog/an-introduction-to-lora/)
 - [Genesis](https://thiomajid.github.io/projects/genesis/)
 - [EfLight](https://thiomajid.github.io/projects/eflight/)
-- [WeathyDotNet](https://thiomajid.github.io/projects/weathydotnet/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
