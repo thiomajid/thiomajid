@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Distil-xLSTM: Learning Attention Mechanisms through Recurrent Structures](https://thiomajid.github.io/publications/distil-xlstm/)
 - [HausaLM](https://thiomajid.github.io/projects/hausalm/)
+- [From Apologies to Insights: Extracting Topics from ChatGPT Apologetic Responses](https://thiomajid.github.io/publications/from-apologies-to-insights-extracting-topics-from-chat-gpt-apologetic-responses/)
+- [Assessing Large Language Models Effectiveness in Outdated Method Renaming](https://thiomajid.github.io/publications/assessing-large-language-models-effectiveness-in-outdated-method-renaming/)
 - [Reinforcement Learning 101](https://thiomajid.github.io/blog/reinforcement-learning-101/)
-- [An introduction to LoRA](https://thiomajid.github.io/blog/an-introduction-to-lora/)
-- [Genesis](https://thiomajid.github.io/projects/genesis/)
-- [EfLight](https://thiomajid.github.io/projects/eflight/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
