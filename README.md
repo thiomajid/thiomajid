@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MoxE: Mixture of xLSTM Experts with Entropy-Aware Routing for Efficient Language Modeling](https://thiomajid.github.io/publications/moxe/)
 - [Distil-xLSTM: Learning Attention Mechanisms through Recurrent Structures](https://thiomajid.github.io/publications/distil-xlstm/)
 - [HausaLM](https://thiomajid.github.io/projects/hausalm/)
 - [From Apologies to Insights: Extracting Topics from ChatGPT Apologetic Responses](https://thiomajid.github.io/publications/from-apologies-to-insights-extracting-topics-from-chat-gpt-apologetic-responses/)
 - [Assessing Large Language Models Effectiveness in Outdated Method Renaming](https://thiomajid.github.io/publications/assessing-large-language-models-effectiveness-in-outdated-method-renaming/)
-- [Reinforcement Learning 101](https://thiomajid.github.io/blog/reinforcement-learning-101/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
